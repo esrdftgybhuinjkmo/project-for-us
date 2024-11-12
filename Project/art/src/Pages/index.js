@@ -1,0 +1,6 @@
+export {Home} from './Home'
+export {Blog} from './Blog'
+export {Contact} from './Contact'
+export {Team} from './Team'
+export {Services} from './Services'
+export {Projects} from './Projects'
